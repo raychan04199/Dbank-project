@@ -1,5 +1,0 @@
-service : {
-  checkBlance: () -> (nat) query;
-  topUp: (nat) -> () oneway;
-  withdraw: (nat) -> () oneway;
-}
